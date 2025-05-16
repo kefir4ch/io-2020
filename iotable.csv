@@ -1,0 +1,28 @@
+;A Kmetijstvo in lov, gozdarstvo, ribištvo;B Rudarstvo;C Predelovalne dejavnosti;D Oskrba z elektrièno energijo, plinom in paro;E Oskrba z vodo, ravnanje z odplakami in odpadki, saniranje okolja;F Gradbeništvo;G Trgovina, vzdrževanje in popravila motornih vozil;H Promet in skladišèenje;I Gostinstvo;J Informacijske in komunikacijske dejavnosti;K Finanène in zavarovalniške dejavnosti;L Poslovanje z nepremièninami;M Strokovne, znanstvene in tehniène dejavnosti;N Druge raznovrstne poslovne dejavnosti;O Dejavnost javne uprave in obrambe, dejavnost obvezne socialne varnosti;P Izobraževanje;Q Zdravstvo in socialno varstvo;R Kulturne, razvedrilne in rekreacijske dejavnosti;S Druge dejavnosti
+A Kmetijstvo in lov, gozdarstvo, ribištvo;140,9;0;243,8;1,1;2;21;40,5;0;1,1;0;0;0,2;0;0,7;0;0,2;0;0,4;0,1
+B Rudarstvo;0;20,1;8,5;117,9;1,2;92,3;0,2;1,7;0,3;0,1;0;0;0;0,8;0,5;0,7;0,2;0,3;0,1
+C Predelovalne dejavnosti;154,4;29,6;3480;158,3;25,1;811,1;280;78,7;103,8;60;21,6;39,4;184,9;34,2;23,1;26,8;102;22,6;5,1
+D Oskrba z elektrièno energijo, plinom in paro;1,6;11,4;315,9;300,4;14,9;15,8;64,8;57,5;29,7;15,9;6,6;15,5;17,6;10,6;21,7;16,9;20,7;13,5;5,9
+E Oskrba z vodo, ravnanje z odplakami in odpadki, saniranje okolja;0,9;4;77,2;11,4;185;4,9;25,7;6,6;14,2;1;1,3;3,6;9,5;5,5;18,5;11,3;17,1;4,6;5,6
+F Gradbeništvo;15,3;1,4;128,5;0;30,9;2974,8;76,7;67,7;18,8;1,6;5,9;109;28,3;32,5;208,2;16,3;16,8;5,4;3,8
+G Trgovina, vzdrževanje in popravila motornih vozil;40,2;10,5;1968,8;45,5;41,8;372,3;509,5;258,2;94,5;31,1;35,9;37,5;28,6;68,2;29,1;19,2;160,9;24,4;20,2
+H Promet in skladišèenje;12,7;29;491,8;15,6;30,1;56,2;417,3;1480,4;2,6;45,2;28,3;4,2;31,8;49,2;47,6;6,4;15;11,4;9,9
+I Gostinstvo;0,7;0,2;26,8;0,1;0,3;48;23,6;31;18;5,9;9,5;5,3;5;28,3;4,6;6,5;6,3;10,8;0,9
+J Informacijske in komunikacijske dejavnosti;0,7;2,1;103,2;15,5;4,4;10,2;166,3;50,5;13,4;863;89,9;5,5;87,4;35,9;58,7;14,4;26;25,9;3,5
+K Finanène in zavarovalniške dejavnosti;16,1;2;159,7;24,9;10;55,2;201,3;80,6;18,5;20,6;474,5;165,9;21,9;39,2;42,3;3,1;10,5;15;3,3
+L Poslovanje z nepremièninami;3,2;0,6;154,8;47,4;83,1;69,2;309,7;70,6;76,1;83,4;33,4;59,8;64,8;65,1;72,8;16,4;41,4;24,6;9,4
+M Strokovne, znanstvene in tehniène dejavnosti;13,8;5,9;580,9;26,6;6,7;59,5;751,7;48,6;51;90;84,6;34,2;688,2;55,9;77,7;11;25,1;43,7;11,2
+N Druge raznovrstne poslovne dejavnosti;26,1;4,4;471,2;42,7;26,5;72,9;352,8;254,7;93,3;105,6;55;39,2;131,4;184,8;48,9;47,3;86,5;84,9;20,1
+O Dejavnost javne uprave in obrambe, dejavnost obvezne socialne varnosti;0,2;0;9,9;28,3;8,7;8,2;31,1;10,6;7,2;11,1;11;7,8;6,3;8;60,4;2,7;5;2,4;1
+P Izobraževanje;0,5;0;10,9;2,4;0,2;3,2;16,5;2,2;1,6;6;5,7;0,6;13,5;2,5;17,8;31,3;6;6;0,5
+Q Zdravstvo in socialno varstvo;0,1;0,1;4;1,2;0,5;0;5;2,2;1,6;0,3;1,7;0,2;30,7;1,5;11,6;1;164,7;9,5;0,2
+R Kulturne, razvedrilne in rekreacijske dejavnosti;0,3;0,1;13,9;7,8;0,6;2;12,4;9,9;6,8;22,8;14,8;0,5;9;3,9;15,2;8,1;5,6;119,5;0,7
+S Druge dejavnosti;0;0,1;9,9;0;1,4;2,1;7,1;53,4;17,5;3,8;0,1;1,3;0,5;11,4;0,1;1,2;12,8;14,8;23,3
+Total_Wages;30,6;65,2;4569,9;299,2;469,5;1415;2183,7;1274,1;536,1;904,9;694,2;105,8;1449;1324,1;1532;1675,9;0;0;270,3
+Gross_Output;900;116,9;8566,4;1105,7;1292,5;2647,6;5285,6;2362,5;572,9;1795,7;1610,9;3734,7;2609,6;2003,9;4448,9;2148,7;2413,3;438,9;545,6
+Working_Hours;0,79;0,44;37,3;1,58;1,99;11,26;19,77;9,97;4,93;5,1;3,7;0,8;8,37;5,69;9,71;12,96;12,61;1,83;1,71
+Sredstva za zaposlene;36,7;82,2;5388,1;360,7;200,5;1621,8;3540,8;1480,1;619,1;1057;820,6;118,1;1656,1;1473;1855,4;1984,7;2300,5;418;199,9
+Poraba stalnega kapitala;301,5;35,5;1666,2;503,1;114,6;192,9;470,5;709,9;177,6;413,4;228,1;2198,6;817,8;224,8;643,7;164;165,5;119,9;21,8
+Gross_Profit;1192;32,3;3395,8;649,5;0,3;1118,8;1883,4;1048,8;133,8;811,3;751,5;3522;1134,2;627;580,8;168,9;382,5;123;306,4
+Dodana vrednost v osnovnih cenah;900;116,9;8449,5;1105,7;186,8;2647,6;5276,6;2362,5;572,9;1795,7;1610,9;3734,7;2609,6;2003,9;2445;2148,7;2617,4;546,6;437,9
+Proizvodnja v osnovnih cenah;1564,2;265,9;26081,1;2110,2;949,3;8457,3;9568,6;6304,8;1439,5;3596,7;2745,2;4402,1;4636,6;2958;3493,8;2557,9;3998,9;1138;678,2
